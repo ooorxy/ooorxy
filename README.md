@@ -40,15 +40,23 @@
           <br>VueJS
         </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+          <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
           <br>NextJS
         </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+          <br>NestJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+          <br>Docker
+        </td>
+      </tr>
+      <tr>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
           <br>PostgreSQL
         </td>
-      </tr>
-      <tr>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySql" />
           <br>MySql
@@ -56,6 +64,10 @@
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
           <br>MongoDB
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+          <br>Redis
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -84,10 +96,6 @@
         <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
           <br>Git
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-          <br>jQuery
         </td>
       </tr>
     </tbody>
