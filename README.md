@@ -1,8 +1,5 @@
-### Hi there 👋
-<p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ooorxy&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ooorxy&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -105,9 +102,10 @@
 
 <div style="display: flex; align-items: flex-start; align: center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooorxy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ooorxy" height="150" /></p>
+  <div align="end" style="display: flex; align-items: flex-start; align: center;">
+          <a href="https://www.linkedin.com/in/rafael-souza-da-silva-9155241a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="mailto:rafaelsouza.suns@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   </div>
 </div>
 
-<div align="end" style="display: flex; align-items: flex-start; align: center">
-  <a href="https://www.linkedin.com/in/rafael-souza-da-silva-9155241a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rafaelsouza.suns@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+
