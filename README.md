@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ooorxy&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
-</div>
-
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tbody>
